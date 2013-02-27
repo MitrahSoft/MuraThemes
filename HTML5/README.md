@@ -13,4 +13,4 @@ You'll find us on [Twitter](https://twitter.com/#!/MitrahSoft), [Facebook](http:
 
 ## **Screenshot**
 
-![image](https://raw.github.com/MitrahSoft/MuraThemes/master/bigBusiness/HTML5_CSS3_MuraCMS_Theme.png)
+![image](https://raw.github.com/MitrahSoft/MuraThemes/master/HTML5/HTML5_CSS3_MuraCMS_Theme.png)
